@@ -31,7 +31,7 @@ This project demonstrates core programming concepts including:
 ## ▶ How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/student-management-system-python.git
+   git clone https://github.com/nishat-kulsum/student-management-system-python.git
 
 2. Navigate into the project folder:
    cd student-management-system-python
